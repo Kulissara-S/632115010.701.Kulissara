@@ -1,4 +1,5 @@
 package WEEK_05.LAB_7_1;
+/* Kulissara Srikaew  632115010 */
 public class NerfGun {
     private int bullet;
     private int displayGunID = 1;

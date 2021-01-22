@@ -1,4 +1,5 @@
 package WEEK_05.LAB_7_1;
+/* Kulissara Srikaew  632115010 */
 public class MainApplication {
     public static void main(String[] args) {
         NerfGun gun1 = new NerfGun();

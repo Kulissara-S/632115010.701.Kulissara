@@ -1,4 +1,5 @@
 package WEEK_07.LAB_8_3;
+/* Kulissara Srikaew  632115010 */
 public class BicycleSpeed {
     private int speed;
     public BicycleSpeed() {
